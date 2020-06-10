@@ -1,0 +1,182 @@
+main {
+    background-color:black;
+    width:1400px;
+    height: 3550px;
+    padding-top: 50px;
+    font-family: freight-noe-pro, sans-serif;
+    font-weight: 300;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+header {
+    background-color: black;
+    width: 1400px;
+    height: 200px;
+    margin-bottom: 50px;   
+}
+
+.hbox {
+    background-color: black;
+    width: 200px;
+    height:200px;
+    float:left;
+    margin-left: 15px;
+    margin-bottom:30p;
+}
+
+.hbox2 {
+    width: 200px;
+    height: 100px;
+    padding-top: 80px;
+    margin-left: 250px;
+    background-color: black;
+    font-size: 12px;
+    weight:100;
+    color:rgb(185, 184, 184);
+    word-spacing: 10px;
+}
+
+
+nav {
+    border-bottom: 2px solid;
+    border-color: #112427;
+    width: 500px;
+    height:50px;
+    float:center;
+    margin-left: auto;
+    margin-right: auto;
+
+  text-align: center;
+    font-size: 25px;
+    color:white;
+    word-spacing: 80px;
+
+ 
+
+}
+
+.hiddenword {
+    text-align: center;
+    color: yellow;
+    visibility: hidden;
+}
+.a1 {
+   border:2px solid #112427;
+    width:1300px;
+    height: 430px;
+    margin-left:auto;
+    margin-right: auto;
+    padding-top:30px;
+    padding-left: 15px;
+    margin-bottom: 50px;
+    margin-top:100px;
+}
+
+.room1 {
+    border-color:#dbd9b5;
+    width:400px;
+    height: 400px;
+    float: left;
+    margin-left:15px;
+    margin-right:15px;
+}
+.b1 {
+    border:2px solid #112427;
+    width: 1300px;
+    height: 420px;
+    margin-left:auto;
+    margin-right:auto;
+    padding-top:15px;
+    padding-left:10px;
+    margin-bottom: 250px;
+    
+}
+
+.a2 { 
+    border:2px solid #112427;
+    width:1300px;
+    height: 400px;
+    padding:10px;
+    margin-right:auto;
+    margin-left:auto;
+    margin-bottom: 50px;
+
+}
+
+.room2 {
+   border-color:#dbd9b5;
+   width: 600px;
+   height: 345px;
+   float:left;
+   margin-right:15px;
+   margin-left:30px;
+   margin-top: 25px;
+   
+   
+}
+
+
+
+.room3 {
+    border-color:#dbd9b5;
+    width:400px;
+    height: 400px;
+    float: left;
+    margin-left:15px;
+    margin-right:15px;
+}
+
+.c1 {
+    border:2px solid #112427;
+    width:1300px;
+    height: 500px;
+    margin-left:auto;
+    margin-right:auto;
+    padding-top: 20px;
+    margin-bottom: 200px;
+
+
+}
+
+.room4 {
+    width: 1250px;
+    height: 475px;
+   margin-left: 50px;
+
+}
+
+.sketch {
+    border:2px solid #112427;
+    width:1300px;
+    height: 350px;
+    margin-left:auto;
+    margin-right:auto;
+    padding-top: 50px;
+    padding-left:50px;
+    margin-bottom: 200px;
+}
+
+.room5 {
+    background-color:#dbd9b5;
+    width:300px;
+    height:300px;
+    float:left;
+    margin-left: 10px;
+}
+
+
+footer {
+    background-color:#0d1c1f;
+    width: 1400px;
+    height: 150px;
+    padding-top: 15px;
+  
+}
+
+.AzeklogoRnd {
+    float: center;
+    margin-left: 650px;
+  
+}
+
